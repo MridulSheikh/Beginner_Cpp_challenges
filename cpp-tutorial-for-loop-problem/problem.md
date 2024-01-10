@@ -50,3 +50,5 @@ nine
 even
 odd
 ```
+
+- **Reference: [Hacker Rank](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)**
